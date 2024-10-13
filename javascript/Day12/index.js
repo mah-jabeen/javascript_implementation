@@ -62,20 +62,20 @@
 
 //  Print FullName
 
-var fName = ["Ruhama", "Hajra", "Yusma", "Mehreen"];
-var lName = ["Gull", "Asif", "Shah", "Naqvi"];
-var fullName = [];
+// var fName = ["Ruhama", "Hajra", "Yusma", "Mehreen"];
+// var lName = ["Gull", "Asif", "Shah", "Naqvi"];
+// var fullName = [];
 
-for (var i = 0; i < fName.length; i++) {
-  for (var j = 0; j < lName.length; j++) {
-    if (i === j) {
-        // console.log( fName[i] + " " + lName[j]);
-        fullName.push(fName[i] + " " + lName[j])
-    }
-  }
-}
+// for (var i = 0; i < fName.length; i++) {
+//   for (var j = 0; j < lName.length; j++) {
+//     if (i === j) {
+//         // console.log( fName[i] + " " + lName[j]);
+//         fullName.push(fName[i] + " " + lName[j])
+//     }
+//   }
+// }
 
 
-console.log(fName);
-console.log(lName);
-console.log(fullName);
+// console.log(fName);
+// console.log(lName);
+// console.log(fullName);
